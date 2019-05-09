@@ -1,0 +1,14 @@
+body {
+  font-family: "American Typewriter", serif;
+  background-color: powderblue;
+}
+
+h1 {
+  color: #99A4AC;
+  border-style: solid;
+}
+
+li {
+  color: #184695;
+  text-align: center;
+}
